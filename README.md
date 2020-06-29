@@ -4,3 +4,5 @@ Run the main extract_features.py file to get features extracted into the output 
 Use the UCF Crime Dataset from the paper [Real-world Anomaly Detection in Surveillance Videos](https://arxiv.org/abs/1801.04264) which is available at [UCF Crime Dataset](https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?dl=0) to obtain CCTV Surveillance videos.
 ### C3D Model from Facebook
 The C3D feature extractor is originally available as a Caffe Model by Facebook.
+##### Credit
+This code is based on the work done [Ptirupat](https://github.com/ptirupat/AnomalyDetection_CVPR18), and it is part of the extension of work conducted for Anomaly Detection for video surveillance footage.
